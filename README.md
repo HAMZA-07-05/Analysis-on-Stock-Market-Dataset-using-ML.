@@ -25,7 +25,7 @@ Attributes :-
 -GBPINRLastClose
 
 
-## Technologies Used
+ Technologies Used
 - Python
 - Pandas
 - NumPy
