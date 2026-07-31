@@ -5,7 +5,7 @@ A machine learning project that analyzes historical global financial market data
 By leveraging historical price movements, commodity trends, bond yields, and currency exchange rates, the model delivers precise market predictions.
 This empowers investors and financial institutions to make strategic, data-driven decisions, minimize risk, and optimize portfolio performance.(To predict the opening price of the financial portfolio)
 
-### Attributes :- 
+## Attributes :- 
 -Date
 -PortfolioOpen (Target Variable)
 -PreviousIndiaTradingDate
@@ -25,8 +25,7 @@ This empowers investors and financial institutions to make strategic, data-drive
 -USDINRLastClose
 -GBPINRLastClose
 
-
- Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
