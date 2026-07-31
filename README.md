@@ -1,4 +1,5 @@
-Regression Project 
+Stock Market Analysis using Machine Learning ---
+A machine learning project that analyzes historical global financial market data and predicts portfolio opening prices using regression techniques.
 
 Objective :- The goal is to accurately forecast the opening price of the financial portfolio using 18 key global market indicators.
 By leveraging historical price movements, commodity trends, bond yields, and currency exchange rates, the model delivers precise market predictions.
