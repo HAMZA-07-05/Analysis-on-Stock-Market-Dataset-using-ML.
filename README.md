@@ -23,3 +23,12 @@ Attributes :-
 -PreviousIndia5YRBondYieldClose
 -USDINRLastClose
 -GBPINRLastClose
+
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Google Colab 
